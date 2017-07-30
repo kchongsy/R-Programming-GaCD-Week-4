@@ -18,8 +18,7 @@ Subject column is numbered sequentially from 1 to 30. Activity column has 6 type
 5. STANDING
 6. LAYING
 
-
-The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
+### The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
 
 - "activitylabel"
 - "subject"
@@ -92,5 +91,7 @@ The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 va
 
 ### Variable units
 
-Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.
+Activity variable is factor type. 
+Subject variable is integer type. 
+All the other variables are numeric type.
 
