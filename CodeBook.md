@@ -4,8 +4,8 @@ This code book summarizes the resulting data fields in tidy.txt which contains 1
 
 ### Only all the variables estimated from mean and standard deviation in the tidy set were kept.
 
--mean(): Mean value
--std(): Standard deviation
+- mean(): Mean value
+- std(): Standard deviation
 
 The data were averaged based on subject and activity group.
 
